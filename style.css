@@ -1,0 +1,20 @@
+body{
+    /* background: url("bg.jpg"); */
+    background-size: cover;
+}
+
+
+
+.heading{
+    width: 100%;
+    color: white;
+}
+
+.songbtn{
+    margin-top: 20px;
+}
+
+canvas{
+    border: white 2px dotted;
+    border-radius: 20px;
+}
